@@ -1,0 +1,24 @@
+.Task {
+	background-color: white;
+	margin-top: 3px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.Task__name {
+	font-size: 25px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	margin-left: 20px;
+	color: #878787;
+}
+
+.Task__delete {
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	opacity: 0.5;
+	margin-right: 30px;
+	border-radius: 50px;
+	border: none;
+}

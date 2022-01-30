@@ -1,0 +1,14 @@
+.Header {
+	background-color: white;
+	padding-top: 0.1rem;
+	padding-bottom: 1px;
+	display: flex;
+	justify-content: center;
+	min-width: 40rem;
+}
+
+.Header__label {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+}

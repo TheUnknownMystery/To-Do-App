@@ -1,0 +1,11 @@
+//importing other styles from other scss files
+//to here
+
+//base styles
+@import './base/settings';
+@import'./base/base';
+
+//component styles
+@import './components/add-foarm';
+@import './components/Header';
+@import './components/Task';
